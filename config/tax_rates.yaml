@@ -1,0 +1,27 @@
+tax_rates:
+  GST:
+    - country: 'AU'
+      rate: 0.10
+    - country: 'NZ'
+      rate: 0.15
+  VAT:
+    - country: 'PL'
+      rate: 0.23
+    - country: 'DE'
+      rate: 0.20
+    - country: 'FR'
+      rate: 0.20
+  HST:
+    - country: 'CA'
+      rate: 0.15
+  CUSTOM:
+    - country: 'CA'
+      rate: 0.20
+    - country: 'MEX' # Mexico
+      rate: 0.20
+    - country: 'PL'
+      rate: 0.10
+    - country: 'FR'
+      rate: 0.10
+    - country: 'NZ'
+      rate: 0.05
